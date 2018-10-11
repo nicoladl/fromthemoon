@@ -1,0 +1,23 @@
+{
+  "name": "fromthemoon",
+  "version": "1.0.0",
+  "description": "Galaxy Rappresentation from the moon",
+  "author": "Nicola De Lazzari",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "babylonjs": "^3.3.0",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3",
+    "nodemon": "^1.11.0",
+    "sass-loader": "^7.1.0"
+  }
+}
